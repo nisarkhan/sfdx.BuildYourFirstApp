@@ -1,0 +1,8 @@
+{
+    "orgName": "trailblazerapp",
+    "description": "http://www.wadewegner.com/2018/01/using-salesforce-dx-with-trailhead/",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
